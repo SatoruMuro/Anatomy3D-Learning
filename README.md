@@ -6,7 +6,7 @@
 
 公開サイト:
 
-https://satorumuro.github.io/Anatomy3D-Learning-Pages/
+https://satorumuro.github.io/Anatomy3D-Learning/
 
 Copyright © 2026 Satoru Muro
 
