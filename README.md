@@ -1,4 +1,4 @@
-# Anatomy3D-Learning Pages
+# Anatomy3D-Learning
 
 「女性骨盤底の基本 3D解剖」の公開用GitHub Pages artifactです。
 
