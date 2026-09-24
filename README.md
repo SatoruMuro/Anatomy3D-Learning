@@ -24,10 +24,17 @@ https://satorumuro.github.io/Anatomy3D-Learning/
 
 骨盤底筋、内閉鎖筋系、大内転筋の配置を比較し、共収縮と解剖学的な接触を区別します。
 
-各Topicには6つのLearning Viewがあり、どれからでも直接選べます。
+### 会陰裂傷修復のための解剖学的基盤
+
+**Anatomical Basis for Perineal Laceration Repair**
+
+腟出口と肛門管、肛門挙筋前束、浅会陰筋、球海綿体筋の立体的な関係を5つのLearning Viewで確認します。
+
+既存の2 Topicは各6 Views、Topic 3は5 Viewsで、どれからでも直接選べます。
 
 - [女性骨盤底の基本](https://satorumuro.github.io/Anatomy3D-Learning/lessons/female-pelvic-floor-basic/)
 - [骨盤底筋・内閉鎖筋・大内転筋の位置関係](https://satorumuro.github.io/Anatomy3D-Learning/lessons/pelvic-floor-hip-muscle-relationships/)
+- [会陰裂傷修復のための解剖学的基盤](https://satorumuro.github.io/Anatomy3D-Learning/lessons/perineal-laceration-repair/)
 
 ## Use in Teaching, Presentations, and Media
 
