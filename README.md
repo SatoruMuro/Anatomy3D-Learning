@@ -34,11 +34,20 @@ https://satorumuro.github.io/Anatomy3D-Learning/
 
 腟出口と肛門管、肛門挙筋前束、浅会陰筋、球海綿体筋の立体的な関係と、大腿骨・体表の位置関係を6つのLearning Viewで確認します。
 
-3 Topicはいずれも6 Viewsで、どれからでも直接選べます。
+### 分娩時の骨盤底・会陰の変形
+
+**Topic 4 — Childbirth deformation**
+
+Schematic visualization of pelvic floor deformation during vaginal delivery.
+
+5段階の再生・停止・スライダー操作で、胎児頭の下降と簡易的な形状変化を観察します。現在の変形は未検証の模式プレビューです。FEM・定量的ひずみ解析ではありません。解剖学的な変形shape keyと腟・会陰体の独立モデルは未提供です。
+
+Topic 1〜3は各6 Views、Topic 4は5 Stages / Viewsで、どれからでも直接選べます。
 
 - [女性骨盤底の基本](https://satorumuro.github.io/Anatomy3D-Learning/lessons/female-pelvic-floor-basic/)
 - [骨盤底筋・内閉鎖筋・大内転筋の位置関係](https://satorumuro.github.io/Anatomy3D-Learning/lessons/pelvic-floor-hip-muscle-relationships/)
 - [会陰裂傷修復のための解剖学的基盤](https://satorumuro.github.io/Anatomy3D-Learning/lessons/perineal-laceration-repair/)
+- [分娩時の骨盤底・会陰の変形](https://satorumuro.github.io/Anatomy3D-Learning/lessons/childbirth-deformation/)
 
 ## Use in Teaching, Presentations, and Media
 
