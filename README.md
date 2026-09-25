@@ -1,8 +1,12 @@
-# Anatomy3D Learning
+# Anato3DL
+
+Anatomy3D Learning
 
 **Interactive 3D anatomy learning resources by Satoru Muro**
 
-Anatomy3D Learning は、3Dモデルを用いて人体解剖をインタラクティブに学ぶためのWeb教材です。
+Anato3DL（Anatomy3D Learning）は、3Dモデルを用いて人体解剖をインタラクティブに学ぶためのWeb教材です。
+
+Anato3DLの読みは「アナトスリーディーエル」です。
 
 医学・医療系学生、医療従事者、解剖学を学ぶ方を対象に、テーマごとの3D解剖教材を公開しています。
 
@@ -38,16 +42,16 @@ https://satorumuro.github.io/Anatomy3D-Learning/
 
 ## Use in Teaching, Presentations, and Media
 
-Anatomy3D Learning は、授業、勉強会、セミナー、講演、学会・研究会等でのプレゼンテーション、ブログ、Web記事、YouTube等の動画をはじめ、教育・情報発信の目的で自由に使用できます。Webアプリを会場や配信画面で表示・操作して紹介する場合も、事前の許可申請は不要です。
+Anato3DL（Anatomy3D Learning）は、授業、勉強会、セミナー、講演、学会・研究会等でのプレゼンテーション、ブログ、Web記事、YouTube等の動画をはじめ、教育・情報発信の目的で自由に使用できます。Webアプリを会場や配信画面で表示・操作して紹介する場合も、事前の許可申請は不要です。
 
 アプリ画面のスクリーンショット（静止画）や画面録画、動画内での操作画面を、スライド、配布資料、ブログ、Web記事、動画等に掲載することもできます。
 
 ご利用の際は、可能な範囲で次の出典を表示してください。
 
-> Anatomy3D Learning / Satoru Muro<br>
+> Anato3DL (Anatomy3D Learning) / Satoru Muro<br>
 > https://satorumuro.github.io/Anatomy3D-Learning/
 
-Anatomy3D Learning may be displayed and used for teaching, presentations, and educational media without prior permission. Screenshots and screen recordings may also be included in slides, articles, and videos.
+Anato3DL (Anatomy3D Learning) may be displayed and used for teaching, presentations, and educational media without prior permission. Screenshots and screen recordings may also be included in slides, articles, and videos.
 
 ## 3D Model Data
 
