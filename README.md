@@ -32,9 +32,9 @@ https://satorumuro.github.io/Anatomy3D-Learning/
 
 **Anatomical Basis for Perineal Laceration Repair**
 
-腟出口と肛門管、肛門挙筋前束、浅会陰筋、球海綿体筋の立体的な関係を5つのLearning Viewで確認します。
+腟出口と肛門管、肛門挙筋前束、浅会陰筋、球海綿体筋の立体的な関係と、大腿骨・体表の位置関係を6つのLearning Viewで確認します。
 
-既存の2 Topicは各6 Views、Topic 3は5 Viewsで、どれからでも直接選べます。
+3 Topicはいずれも6 Viewsで、どれからでも直接選べます。
 
 - [女性骨盤底の基本](https://satorumuro.github.io/Anatomy3D-Learning/lessons/female-pelvic-floor-basic/)
 - [骨盤底筋・内閉鎖筋・大内転筋の位置関係](https://satorumuro.github.io/Anatomy3D-Learning/lessons/pelvic-floor-hip-muscle-relationships/)
